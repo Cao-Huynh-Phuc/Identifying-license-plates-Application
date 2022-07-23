@@ -1,0 +1,16 @@
+﻿  PlateFinder.cpp
+d:\visual studio 2015\machinevision_deetectlicenseplates\machinevision_deetectlicenseplates\platefinder.cpp(274): warning C4101: 'xmin': unreferenced local variable
+d:\visual studio 2015\machinevision_deetectlicenseplates\machinevision_deetectlicenseplates\platefinder.cpp(274): warning C4101: 'ymax': unreferenced local variable
+d:\visual studio 2015\machinevision_deetectlicenseplates\machinevision_deetectlicenseplates\platefinder.cpp(275): warning C4101: 'count': unreferenced local variable
+d:\visual studio 2015\machinevision_deetectlicenseplates\machinevision_deetectlicenseplates\platefinder.cpp(274): warning C4101: 'xmax': unreferenced local variable
+d:\visual studio 2015\machinevision_deetectlicenseplates\machinevision_deetectlicenseplates\platefinder.cpp(274): warning C4101: 'ymin': unreferenced local variable
+d:\visual studio 2015\machinevision_deetectlicenseplates\machinevision_deetectlicenseplates\platefinder.cpp(403): warning C4101: 'count': unreferenced local variable
+d:\visual studio 2015\machinevision_deetectlicenseplates\machinevision_deetectlicenseplates\platefinder.cpp(569): warning C4101: 'count': unreferenced local variable
+d:\visual studio 2015\machinevision_deetectlicenseplates\machinevision_deetectlicenseplates\platefinder.cpp(684): warning C4101: 'xmin': unreferenced local variable
+d:\visual studio 2015\machinevision_deetectlicenseplates\machinevision_deetectlicenseplates\platefinder.cpp(684): warning C4101: 'ymax': unreferenced local variable
+d:\visual studio 2015\machinevision_deetectlicenseplates\machinevision_deetectlicenseplates\platefinder.cpp(685): warning C4101: 'count': unreferenced local variable
+d:\visual studio 2015\machinevision_deetectlicenseplates\machinevision_deetectlicenseplates\platefinder.cpp(684): warning C4101: 'xmax': unreferenced local variable
+d:\visual studio 2015\machinevision_deetectlicenseplates\machinevision_deetectlicenseplates\platefinder.cpp(684): warning C4101: 'ymin': unreferenced local variable
+d:\visual studio 2015\machinevision_deetectlicenseplates\machinevision_deetectlicenseplates\platefinder.cpp(884): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  MachineVision_DeetectLicensePlates.vcxproj -> D:\visual studio 2015\MachineVision_DeetectLicensePlates\x64\Debug\MachineVision_DeetectLicensePlates.exe
+  MachineVision_DeetectLicensePlates.vcxproj -> D:\visual studio 2015\MachineVision_DeetectLicensePlates\x64\Debug\MachineVision_DeetectLicensePlates.pdb (Full PDB)
